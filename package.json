@@ -1,0 +1,16 @@
+{
+  "name": "work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "max.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Pradhumna",
+  "license": "home",
+  "dependencies": {
+    "jest": "^26.4.2",
+    "winston": "^3.3.3"
+  }
+}
